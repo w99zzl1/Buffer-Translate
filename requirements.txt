@@ -1,0 +1,4 @@
+pyperclip==1.9.0
+googletrans==4.0.0rc1
+psutil==5.9.5
+pywin32==306
