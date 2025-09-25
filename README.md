@@ -1,6 +1,6 @@
 # Clipboard Translator 📝✨
 
-** Clipboard Translator ** - this is a utility for instant translation of the text copied to the exchange buffer.
+**Clipboard Translator** - this is a utility for instant translation of the text copied to the exchange buffer.
 The program automatically defines the language (Russian or English) and translates the text into the opposite language,
 Keeping the original meaning and format.
 
@@ -26,10 +26,4 @@ Keeping the original meaning and format.
 
 ---
 
-## screenshot (example of the interface)
-
-! [Clipboard Translator] (Screenshot.png)
-
----
-
-** The project was created to improve the performance and ease of working with the text in real time. **
+** The project was created to improve the performance and ease of working with the text in real time.
